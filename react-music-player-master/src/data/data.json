@@ -1,0 +1,67 @@
+[
+   {
+      "_id":"1",
+      "artist":"Shakir Hussain",
+      "name":"MetLife Band's",
+      "cover":"https://cdn.pixabay.com/photo/2016/05/30/14/23/detective-1424831_1280.png",
+      "songs":[
+         {
+         	"_id": "1",
+            "name":"Awesome",
+            "artist":"Shakir Hussain",
+            "cover":"https://static.vecteezy.com/system/resources/previews/024/237/864/non_2x/big-set-of-yellow-emoji-funny-emoticons-faces-with-facial-expressions-vector.jpg",
+            "file":"https://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/theme_01.mp3"
+         },
+         {
+         	"_id": "2",
+            "name":"I Want To Hold Your Hand",
+            "artist":"Vineet Yadav",
+            "cover":"https://cdn.pixabay.com/photo/2016/04/06/20/11/female-1312656_1280.png",
+            "file":"https://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/theme_01.mp3"
+         },
+         {
+         	"_id": "3",
+            "name":"This Boy",
+            "artist":"Subbu",
+            "cover":"https://cdn.pixabay.com/photo/2018/04/15/18/50/smiley-3322465_1280.png",
+            "file": "https://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/theme_01.mp3"
+         },
+         {
+         	"_id": "4",
+            "name":"It Won't Be Long",
+            "artist":"Rahil Ahemad",
+            "cover":"https://cdn.pixabay.com/photo/2012/04/25/01/29/alien-41612_1280.png",
+            "file":"https://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/theme_01.mp3"
+         }
+      ]
+   },
+   {
+      "_id":"2",
+      "artist":"Vineet Yadav",
+      "name":"MetLife Rocks",
+      "cover":"https://cdn.pixabay.com/photo/2016/06/15/15/25/loudspeaker-1459128_1280.png",
+      "songs":[
+         {
+         	"_id": "6",
+            "name":"Dear Prudence",
+            "artist":"Deepesh Saini",
+            "cover":"https://cdn.pixabay.com/photo/2020/11/27/21/08/gingerbread-man-5782936_1280.png",
+            "file": "https://ia800508.us.archive.org/19/items/DearPrudence_201302/dear%20prudence.mp3"
+         },
+         {
+         	"_id": "7",
+            "name":"Glass Onion",
+            "artist":"Deepika Gupta",
+            "cover":"https://cdn.pixabay.com/photo/2013/07/13/14/06/gingerbread-162141_1280.png",
+            "file": "https://ia601401.us.archive.org/33/items/cd_the-beatles_the-beatles_7/disc1/01.03.%20The%20Beatles%20-%20Glass%20Onion_sample.mp3"
+         },
+         {
+         	"_id": "8",
+            "name":"Ob-La-Di, Ob-La-Da",
+            "artist":"Suraj Patnayak",
+            "cover":"https://cdn.pixabay.com/photo/2016/06/15/16/16/man-1459246_1280.png",
+            "file": "https://ia802205.us.archive.org/5/items/ObladiOblada/obladi.mp3"
+         }
+      ]
+   }
+]
